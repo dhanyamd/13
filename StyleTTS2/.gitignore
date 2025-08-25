@@ -1,0 +1,15 @@
+__pycache__
+.venv 
+env/
+.env
+*.pyc
+logs/
+StyleTTS2Finetune/
+*.pth
+*.pt
+*.wav
+*.mp3
+Models/
+epochs_2nd_00020.pth
+reference_audio/
+pretrained_models/
