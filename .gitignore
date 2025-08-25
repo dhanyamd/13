@@ -1,0 +1,9 @@
+.env 
+.__pycache__
+reference_audio/
+env/
+.venv
+*.pyc
+logs/
+*.pth
+Models
