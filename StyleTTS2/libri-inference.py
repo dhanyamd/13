@@ -22,8 +22,12 @@ from collections import OrderedDict
 from Modules.diffusion.sampler import DiffusionSampler, ADPM2Sampler, KarrasSchedule
 from text_utils import TextCleaner
 import soundfile as sf
+import nltk
+nltk.download('punkt_tab')
+# os.environ["PHONEMIZER_ESPEAK_LIBRARY"] = "c:\Users\Dell\Downloads\setup_espeak-1.48.04.exe"
+os.environ["PHONEMIZER_ESPEAK_PATH"]= "c:\Program Files\eSpeak NG"
+os.environ["PHONEMIZER_ESPEAK_LIBRARY"]= "c:\Program Files\eSpeak NG\libespeak-ng.dll"
 
-# os.environ["PHONEMIZER_ESPEAK_LIBRARY"] = "/opt/homebrew/Cellar/espeak/1.48.04_1/lib/libespeak.dylib"
 
 
 class StyleTTS2Inference:
@@ -186,14 +190,14 @@ class StyleTTS2Inference:
 if __name__ == "__main__":
     synthesiser = StyleTTS2Inference(
         config_path="Models/LibriTTS/config.yml",
-        model_path="Models/LibriTTS/epoch_2nd_00074.pth"
+        model_path="Models/LibriTTS/epochs_2nd_00020.pth"
     )
 
-    ref_style = synthesiser.compute_style("Models/LibriTTS/andreas1.wav")
+    ref_style = synthesiser.compute_style("Models/LibriTTS/woman.wav")
 
     # Generate speech
     audio = synthesiser.inference(
-        text="Hello, my name is andreas and I am now testing with the new fine tuned model.",
+        text="Hello, my name is dhanya and I am now testing with the new fine tuned model.",
         ref_s=ref_style,
     )
 
