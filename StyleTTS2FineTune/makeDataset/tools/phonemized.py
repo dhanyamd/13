@@ -2,9 +2,13 @@ import argparse
 from phonemizer import phonemize
 import os
 from tqdm import tqdm
-# from phonemizer.backend.espeak.wrapper import EspeakWrapper                ## For Windows
+from phonemizer.backend.espeak.wrapper import EspeakWrapper                ## For Windows
 # EspeakWrapper.set_library("C:\Program Files\eSpeak NG\libespeak-ng.dll")  ## For Windows
-
+import nltk
+nltk.download('punkt_tab')
+# os.environ["PHONEMIZER_ESPEAK_LIBRARY"] = "c:\Users\Dell\Downloads\setup_espeak-1.48.04.exe"
+os.environ["PHONEMIZER_ESPEAK_PATH"]= "c:\Program Files\eSpeak NG"
+os.environ["PHONEMIZER_ESPEAK_LIBRARY"]= "c:\Program Files\eSpeak NG\libespeak-ng.dll"
 
 # argument parser
 parser = argparse.ArgumentParser(description="Phonemize transcriptions.")

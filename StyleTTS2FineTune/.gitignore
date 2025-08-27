@@ -1,1 +1,6 @@
 /StyleGuide/StyleTTS2/*
+segmentedAudio/*
+audio/*
+logs/*
+!logs/README.md
+checkpoints/* 
