@@ -1,6 +1,8 @@
 /StyleGuide/StyleTTS2/*
 segmentedAudio/*
-audio/*
+audio/output.wav 
 logs/*
 !logs/README.md
 checkpoints/* 
+output.wav
+*.npy
