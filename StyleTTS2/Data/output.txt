@@ -1,0 +1,1145 @@
+output_1.wav|Even the Kaslan type, when enlarged, shows great|1
+output_2.wav|shortcomings in this respect.|1
+output_3.wav|For where these are boldly and carefully designed,|1
+output_4.wav|and each letter is thoroughly individual in form,|1
+output_5.wav|the due relation of letter to pictures and|1
+output_6.wav|other ornament was thoroughly understood by the old|1
+output_7.wav|printers.|1
+output_8.wav|So that of these wards, three were appropriated|1
+output_9.wav|to the cabin side, so called, because the|1
+output_10.wav|provisions were on that side of the boat|1
+output_11.wav|where the cabin would have been in the|1
+output_12.wav|steamboat.|1
+output_13.wav|This law had the effect, it was hoped,|1
+output_14.wav|of putting a stop to the system of intimidation|1
+output_15.wav|then prevailing in many parts of the country,|1
+output_16.wav|where a number of persons would wait at the|1
+output_17.wav|poll and challenge the vote of any person|1
+output_18.wav|whom they considered to be likely to vote|1
+output_19.wav|against their particular candidate.|1
+output_20.wav|A man by the name of John Thomas, of a parish|1
+output_21.wav|that I will not name, was brought into the|1
+output_22.wav|court on a charge of having used intimidation.|1
+output_23.wav|The question was whether there was sufficient evidence|1
+output_24.wav|to go to the jury that a person had been|1
+output_25.wav|intimidated by his conduct.|1
+output_26.wav|It was proved that the man was the most|1
+output_27.wav|popular man in the parish, that he was the|1
+output_28.wav|president of a club, and that the club had|1
+output_29.wav|made a resolution that any member of the club|1
+output_30.wav|who voted for a certain candidate would be expelled.|1
+output_31.wav|The defendant had a good character and had been|1
+output_32.wav|a leading man in the parish, and the court|1
+output_33.wav|held that there was not sufficient evidence to go|1
+output_34.wav|to the jury that the man had used intimidation.|1
+output_35.wav|The whole thing was a failure, and it was|1
+output_36.wav|not very long after that that the law was|1
+output_37.wav|amended, and a provision was inserted that any|1
+output_38.wav|person who used intimidation, either directly or indirectly,|1
+output_39.wav|should be liable to imprisonment or to a fine.|1
+output_40.wav|The next case that I will name is a case|1
+output_41.wav|of a man who was tried for having stolen a|1
+output_42.wav|sheep.|1
+output_43.wav|He was brought into the court, and the judge|1
+output_44.wav|said to him, "You are charged with having stolen|1
+output_45.wav|a sheep, and the evidence is that you were|1
+output_46.wav|seen at the place where the sheep was stolen,|1
+output_47.wav|and that you had a bag with you, and that|1
+output_48.wav|the bag contained some wool, and that the wool|1
+output_49.wav|was of the same kind as the wool of the|1
+output_50.wav|sheep that was stolen."|1
+output_51.wav|The man said, "I have been in this court|1
+output_52.wav|so many times before, and I have always been|1
+output_53.wav|acquitted, and I have no doubt that I will|1
+output_54.wav|be acquitted this time."|1
+output_55.wav|The judge said, "You are acquitted."|1
+output_56.wav|The man said, "I told you so."|1
+output_57.wav|The judge said, "You are also charged with having|1
+output_58.wav|stolen a cow, and the evidence is that you|1
+output_59.wav|were seen at the place where the cow was|1
+output_60.wav|stolen, and that you had a bag with you,|1
+output_61.wav|and that the bag contained some meat, and that|1
+output_62.wav|the meat was of the same kind as the|1
+output_63.wav|meat of the cow that was stolen."|1
+output_64.wav|The man said, "I have been in this court|1
+output_65.wav|so many times before, and I have always been|1
+output_66.wav|acquitted, and I have no doubt that I will|1
+output_67.wav|be acquitted this time."|1
+output_68.wav|The judge said, "You are acquitted."|1
+output_69.wav|The man said, "I told you so."|1
+output_70.wav|The judge said, "You are also charged with having|1
+output_71.wav|stolen a horse, and the evidence is that you|1
+output_72.wav|were seen at the place where the horse was|1
+output_73.wav|stolen, and that you had a bag with you,|1
+output_74.wav|and that the bag contained some hair, and that|1
+output_75.wav|the hair was of the same kind as the|1
+output_76.wav|hair of the horse that was stolen."|1
+output_77.wav|The man said, "I have been in this court|1
+output_78.wav|so many times before, and I have always been|1
+output_79.wav|acquitted, and I have no doubt that I will|1
+output_80.wav|be acquitted this time."|1
+output_81.wav|The judge said, "You are acquitted."|1
+output_82.wav|The man said, "I told you so."|1
+output_83.wav|The judge said, "You are also charged with having|1
+output_84.wav|stolen a pig, and the evidence is that you|1
+output_85.wav|were seen at the place where the pig was|1
+output_86.wav|stolen, and that you had a bag with you,|1
+output_87.wav|and that the bag contained some pork, and that|1
+output_88.wav|the pork was of the same kind as the|1
+output_89.wav|pork of the pig that was stolen."|1
+output_90.wav|The man said, "I have been in this court|1
+output_91.wav|so many times before, and I have always been|1
+output_92.wav|acquitted, and I have no doubt that I will|1
+output_93.wav|be acquitted this time."|1
+output_94.wav|The judge said, "You are acquitted."|1
+output_95.wav|The man said, "I told you so."|1
+output_96.wav|The judge said, "You are also charged with having|1
+output_97.wav|stolen a dog, and the evidence is that you|1
+output_98.wav|were seen at the place where the dog was|1
+output_99.wav|stolen, and that you had a bag with you,|1
+output_100.wav|and that the bag contained some hair, and that|1
+output_101.wav|the hair was of the same kind as the|1
+output_102.wav|hair of the dog that was stolen."|1
+output_103.wav|The man said, "I have been in this court|1
+output_104.wav|so many times before, and I have always been|1
+output_105.wav|acquitted, and I have no doubt that I will|1
+output_106.wav|be acquitted this time."|1
+output_107.wav|The judge said, "You are acquitted."|1
+output_108.wav|The man said, "I told you so."|1
+output_109.wav|The judge said, "You are also charged with having|1
+output_110.wav|stolen a cat, and the evidence is that you|1
+output_111.wav|were seen at the place where the cat was|1
+output_112.wav|stolen, and that you had a bag with you,|1
+output_113.wav|and that the bag contained some hair, and that|1
+output_114.wav|the hair was of the same kind as the|1
+output_115.wav|hair of the cat that was stolen."|1
+output_116.wav|The man said, "I have been in this court|1
+output_117.wav|so many times before, and I have always been|1
+output_118.wav|acquitted, and I have no doubt that I will|1
+output_119.wav|be acquitted this time."|1
+output_120.wav|The judge said, "You are acquitted."|1
+output_121.wav|The man said, "I told you so."|1
+output_122.wav|The judge said, "You are also charged with having|1
+output_123.wav|stolen a chicken, and the evidence is that you|1
+output_124.wav|were seen at the place where the chicken was|1
+output_125.wav|stolen, and that you had a bag with you,|1
+output_126.wav|and that the bag contained some feathers, and that|1
+output_127.wav|the feathers were of the same kind as the|1
+output_128.wav|feathers of the chicken that was stolen."|1
+output_129.wav|The man said, "I have been in this court|1
+output_130.wav|so many times before, and I have always been|1
+output_131.wav|acquitted, and I have no doubt that I will|1
+output_132.wav|be acquitted this time."|1
+output_133.wav|The judge said, "You are acquitted."|1
+output_134.wav|The man said, "I told you so."|1
+output_135.wav|The judge said, "You are also charged with having|1
+output_136.wav|stolen a goose, and the evidence is that you|1
+output_137.wav|were seen at the place where the goose was|1
+output_138.wav|stolen, and that you had a bag with you,|1
+output_139.wav|and that the bag contained some feathers, and that|1
+output_140.wav|the feathers were of the same kind as the|1
+output_141.wav|feathers of the goose that was stolen."|1
+output_142.wav|The man said, "I have been in this court|1
+output_143.wav|so many times before, and I have always been|1
+output_144.wav|acquitted, and I have no doubt that I will|1
+output_145.wav|be acquitted this time."|1
+output_146.wav|The judge said, "You are acquitted."|1
+output_147.wav|The man said, "I told you so."|1
+output_148.wav|The judge said, "You are also charged with having|1
+output_149.wav|stolen a duck, and the evidence is that you|1
+output_150.wav|were seen at the place where the duck was|1
+output_151.wav|stolen, and that you had a bag with you,|1
+output_152.wav|and that the bag contained some feathers, and that|1
+output_153.wav|the feathers were of the same kind as the|1
+output_154.wav|feathers of the duck that was stolen."|1
+output_155.wav|The man said, "I have been in this court|1
+output_156.wav|so many times before, and I have always been|1
+output_157.wav|acquitted, and I have no doubt that I will|1
+output_158.wav|be acquitted this time."|1
+output_159.wav|The judge said, "You are acquitted."|1
+output_160.wav|The man said, "I told you so."|1
+output_161.wav|The judge said, "You are also charged with having|1
+output_162.wav|stolen a turkey, and the evidence is that you|1
+output_163.wav|were seen at the place where the turkey was|1
+output_164.wav|stolen, and that you had a bag with you,|1
+output_165.wav|and that the bag contained some feathers, and that|1
+output_166.wav|the feathers were of the same kind as the|1
+output_167.wav|feathers of the turkey that was stolen."|1
+output_168.wav|The man said, "I have been in this court|1
+output_169.wav|so many times before, and I have always been|1
+output_170.wav|acquitted, and I have no doubt that I will|1
+output_171.wav|be acquitted this time."|1
+output_172.wav|The judge said, "You are acquitted."|1
+output_173.wav|The man said, "I told you so."|1
+output_174.wav|The judge said, "You are also charged with having|1
+output_175.wav|stolen a guinea fowl, and the evidence is that|1
+output_176.wav|you were seen at the place where the guinea|1
+output_177.wav|fowl was stolen, and that you had a bag|1
+output_178.wav|with you, and that the bag contained some feathers,|1
+output_179.wav|and that the feathers were of the same kind|1
+output_180.wav|as the feathers of the guinea fowl that was|1
+output_181.wav|stolen."|1
+output_182.wav|The man said, "I have been in this court|1
+output_183.wav|so many times before, and I have always been|1
+output_184.wav|acquitted, and I have no doubt that I will|1
+output_185.wav|be acquitted this time."|1
+output_186.wav|The judge said, "You are acquitted."|1
+output_187.wav|The man said, "I told you so."|1
+output_188.wav|The judge said, "You are also charged with having|1
+output_189.wav|stolen a peacock, and the evidence is that you|1
+output_190.wav|were seen at the place where the peacock was|1
+output_191.wav|stolen, and that you had a bag with you,|1
+output_192.wav|and that the bag contained some feathers, and that|1
+output_193.wav|the feathers were of the same kind as the|1
+output_194.wav|feathers of the peacock that was stolen."|1
+output_195.wav|The man said, "I have been in this court|1
+output_196.wav|so many times before, and I have always been|1
+output_197.wav|acquitted, and I have no doubt that I will|1
+output_198.wav|be acquitted this time."|1
+output_199.wav|The judge said, "You are acquitted."|1
+output_200.wav|The man said, "I told you so."|1
+output_201.wav|The judge said, "You are also charged with having|1
+output_202.wav|stolen a parrot, and the evidence is that you|1
+output_203.wav|were seen at the place where the parrot was|1
+output_204.wav|stolen, and that you had a bag with you,|1
+output_205.wav|and that the bag contained some feathers, and that|1
+output_206.wav|the feathers were of the same kind as the|1
+output_207.wav|feathers of the parrot that was stolen."|1
+output_208.wav|The man said, "I have been in this court|1
+output_209.wav|so many times before, and I have always been|1
+output_210.wav|acquitted, and I have no doubt that I will|1
+output_211.wav|be acquitted this time."|1
+output_212.wav|The judge said, "You are acquitted."|1
+output_213.wav|The man said, "I told you so."|1
+output_214.wav|The judge said, "You are also charged with having|1
+output_215.wav|stolen a crow, and the evidence is that you|1
+output_216.wav|were seen at the place where the crow was|1
+output_217.wav|stolen, and that you had a bag with you,|1
+output_218.wav|and that the bag contained some feathers, and that|1
+output_219.wav|the feathers were of the same kind as the|1
+output_220.wav|feathers of the crow that was stolen."|1
+output_221.wav|The man said, "I have been in this court|1
+output_222.wav|so many times before, and I have always been|1
+output_223.wav|acquitted, and I have no doubt that I will|1
+output_224.wav|be acquitted this time."|1
+output_225.wav|The judge said, "You are acquitted."|1
+output_226.wav|The man said, "I told you so."|1
+output_227.wav|The judge said, "You are also charged with having|1
+output_228.wav|stolen a hawk, and the evidence is that you|1
+output_229.wav|were seen at the place where the hawk was|1
+output_230.wav|stolen, and that you had a bag with you,|1
+output_231.wav|and that the bag contained some feathers, and that|1
+output_232.wav|the feathers were of the same kind as the|1
+output_233.wav|feathers of the hawk that was stolen."|1
+output_234.wav|The man said, "I have been in this court|1
+output_235.wav|so many times before, and I have always been|1
+output_236.wav|acquitted, and I have no doubt that I will|1
+output_237.wav|be acquitted this time."|1
+output_238.wav|The judge said, "You are acquitted."|1
+output_239.wav|The man said, "I told you so."|1
+output_240.wav|The judge said, "You are also charged with having|1
+output_241.wav|stolen a falcon, and the evidence is that you|1
+output_242.wav|were seen at the place where the falcon was|1
+output_243.wav|stolen, and that you had a bag with you,|1
+output_244.wav|and that the bag contained some feathers, and that|1
+output_245.wav|the feathers were of the same kind as the|1
+output_246.wav|feathers of the falcon that was stolen."|1
+output_247.wav|The man said, "I have been in this court|1
+output_248.wav|so many times before, and I have always been|1
+output_249.wav|acquitted, and I have no doubt that I will|1
+output_250.wav|be acquitted this time."|1
+output_251.wav|The judge said, "You are acquitted."|1
+output_252.wav|The man said, "I told you so."|1
+output_253.wav|The judge said, "You are also charged with having|1
+output_254.wav|stolen a pigeon, and the evidence is that you|1
+output_255.wav|were seen at the place where the pigeon was|1
+output_256.wav|stolen, and that you had a bag with you,|1
+output_257.wav|and that the bag contained some feathers, and that|1
+output_258.wav|the feathers were of the same kind as the|1
+output_259.wav|feathers of the pigeon that was stolen."|1
+output_260.wav|The man said, "I have been in this court|1
+output_261.wav|so many times before, and I have always been|1
+output_262.wav|acquitted, and I have no doubt that I will|1
+output_263.wav|be acquitted this time."|1
+output_264.wav|The judge said, "You are acquitted."|1
+output_265.wav|The man said, "I told you so."|1
+output_266.wav|The judge said, "You are also charged with having|1
+output_267.wav|stolen a pigeon, and the evidence is that you|1
+output_268.wav|were seen at the place where the pigeon was|1
+output_269.wav|stolen, and that you had a bag with you,|1
+output_270.wav|and that the bag contained some feathers, and that|1
+output_271.wav|the feathers were of the same kind as the|1
+output_272.wav|feathers of the pigeon that was stolen."|1
+output_273.wav|The man said, "I have been in this court|1
+output_274.wav|so many times before, and I have always been|1
+output_275.wav|acquitted, and I have no doubt that I will|1
+output_276.wav|be acquitted this time."|1
+output_277.wav|The judge said, "You are acquitted."|1
+output_278.wav|The man said, "I told you so."|1
+output_279.wav|The judge said, "You are also charged with having|1
+output_280.wav|stolen a pigeon, and the evidence is that you|1
+output_281.wav|were seen at the place where the pigeon was|1
+output_282.wav|stolen, and that you had a bag with you,|1
+output_283.wav|and that the bag contained some feathers, and that|1
+output_284.wav|the feathers were of the same kind as the|1
+output_285.wav|feathers of the pigeon that was stolen."|1
+output_286.wav|The man said, "I have been in this court|1
+output_287.wav|so many times before, and I have always been|1
+output_288.wav|acquitted, and I have no doubt that I will|1
+output_289.wav|be acquitted this time."|1
+output_290.wav|The judge said, "You are acquitted."|1
+output_291.wav|The man said, "I told you so."|1
+output_292.wav|The judge said, "You are also charged with having|1
+output_293.wav|stolen a pigeon, and the evidence is that you|1
+output_294.wav|were seen at the place where the pigeon was|1
+output_295.wav|stolen, and that you had a bag with you,|1
+output_296.wav|and that the bag contained some feathers, and that|1
+output_297.wav|the feathers were of the same kind as the|1
+output_298.wav|feathers of the pigeon that was stolen."|1
+output_299.wav|The man said, "I have been in this court|1
+output_300.wav|so many times before, and I have always been|1
+output_301.wav|acquitted, and I have no doubt that I will|1
+output_302.wav|be acquitted this time."|1
+output_303.wav|The judge said, "You are acquitted."|1
+output_304.wav|The man said, "I told you so."|1
+output_305.wav|The judge said, "You are also charged with having|1
+output_306.wav|stolen a pigeon, and the evidence is that you|1
+output_307.wav|were seen at the place where the pigeon was|1
+output_308.wav|stolen, and that you had a bag with you,|1
+output_309.wav|and that the bag contained some feathers, and that|1
+output_310.wav|the feathers were of the same kind as the|1
+output_311.wav|feathers of the pigeon that was stolen."|1
+output_312.wav|The man said, "I have been in this court|1
+output_313.wav|so many times before, and I have always been|1
+output_314.wav|acquitted, and I have no doubt that I will|1
+output_315.wav|be acquitted this time."|1
+output_316.wav|The judge said, "You are acquitted."|1
+output_317.wav|The man said, "I told you so."|1
+output_318.wav|The judge said, "You are also charged with having|1
+output_319.wav|stolen a pigeon, and the evidence is that you|1
+output_320.wav|were seen at the place where the pigeon was|1
+output_321.wav|stolen, and that you had a bag with you,|1
+output_322.wav|and that the bag contained some feathers, and that|1
+output_323.wav|the feathers were of the same kind as the|1
+output_324.wav|feathers of the pigeon that was stolen."|1
+output_325.wav|The man said, "I have been in this court|1
+output_326.wav|so many times before, and I have always been|1
+output_327.wav|acquitted, and I have no doubt that I will|1
+output_328.wav|be acquitted this time."|1
+output_329.wav|The judge said, "You are acquitted."|1
+output_330.wav|The man said, "I told you so."|1
+output_331.wav|The judge said, "You are also charged with having|1
+output_332.wav|stolen a pigeon, and the evidence is that you|1
+output_333.wav|were seen at the place where the pigeon was|1
+output_334.wav|stolen, and that you had a bag with you,|1
+output_335.wav|and that the bag contained some feathers, and that|1
+output_336.wav|the feathers were of the same kind as the|1
+output_337.wav|feathers of the pigeon that was stolen."|1
+output_338.wav|The man said, "I have been in this court|1
+output_339.wav|so many times before, and I have always been|1
+output_340.wav|acquitted, and I have no doubt that I will|1
+output_341.wav|be acquitted this time."|1
+output_342.wav|The judge said, "You are acquitted."|1
+output_343.wav|The man said, "I told you so."|1
+output_344.wav|The judge said, "You are also charged with having|1
+output_345.wav|stolen a pigeon, and the evidence is that you|1
+output_346.wav|were seen at the place where the pigeon was|1
+output_347.wav|stolen, and that you had a bag with you,|1
+output_348.wav|and that the bag contained some feathers, and that|1
+output_349.wav|the feathers were of the same kind as the|1
+output_350.wav|feathers of the pigeon that was stolen."|1
+output_351.wav|The man said, "I have been in this court|1
+output_352.wav|so many times before, and I have always been|1
+output_353.wav|acquitted, and I have no doubt that I will|1
+output_354.wav|be acquitted this time."|1
+output_355.wav|The judge said, "You are acquitted."|1
+output_356.wav|The man said, "I told you so."|1
+output_357.wav|The judge said, "You are also charged with having|1
+output_358.wav|stolen a pigeon, and the evidence is that you|1
+output_359.wav|were seen at the place where the pigeon was|1
+output_360.wav|stolen, and that you had a bag with you,|1
+output_361.wav|and that the bag contained some feathers, and that|1
+output_362.wav|the feathers were of the same kind as the|1
+output_363.wav|feathers of the pigeon that was stolen."|1
+output_364.wav|The man said, "I have been in this court|1
+output_365.wav|so many times before, and I have always been|1
+output_366.wav|acquitted, and I have no doubt that I will|1
+output_367.wav|be acquitted this time."|1
+output_368.wav|The judge said, "You are acquitted."|1
+output_369.wav|The man said, "I told you so."|1
+output_370.wav|The judge said, "You are also charged with having|1
+output_371.wav|stolen a pigeon, and the evidence is that you|1
+output_372.wav|were seen at the place where the pigeon was|1
+output_373.wav|stolen, and that you had a bag with you,|1
+output_374.wav|and that the bag contained some feathers, and that|1
+output_375.wav|the feathers were of the same kind as the|1
+output_376.wav|feathers of the pigeon that was stolen."|1
+output_377.wav|The man said, "I have been in this court|1
+output_378.wav|so many times before, and I have always been|1
+output_379.wav|acquitted, and I have no doubt that I will|1
+output_380.wav|be acquitted this time."|1
+output_381.wav|The judge said, "You are acquitted."|1
+output_382.wav|The man said, "I told you so."|1
+output_383.wav|The judge said, "You are also charged with having|1
+output_384.wav|stolen a pigeon, and the evidence is that you|1
+output_385.wav|were seen at the place where the pigeon was|1
+output_386.wav|stolen, and that you had a bag with you,|1
+output_387.wav|and that the bag contained some feathers, and that|1
+output_388.wav|the feathers were of the same kind as the|1
+output_389.wav|feathers of the pigeon that was stolen."|1
+output_390.wav|The man said, "I have been in this court|1
+output_391.wav|so many times before, and I have always been|1
+output_392.wav|acquitted, and I have no doubt that I will|1
+output_393.wav|be acquitted this time."|1
+output_394.wav|The judge said, "You are acquitted."|1
+output_395.wav|The man said, "I told you so."|1
+output_396.wav|The judge said, "You are also charged with having|1
+output_397.wav|stolen a pigeon, and the evidence is that you|1
+output_398.wav|were seen at the place where the pigeon was|1
+output_399.wav|stolen, and that you had a bag with you,|1
+output_400.wav|and that the bag contained some feathers, and that|1
+output_401.wav|the feathers were of the same kind as the|1
+output_402.wav|feathers of the pigeon that was stolen."|1
+output_403.wav|The man said, "I have been in this court|1
+output_404.wav|so many times before, and I have always been|1
+output_405.wav|acquitted, and I have no doubt that I will|1
+output_406.wav|be acquitted this time."|1
+output_407.wav|The judge said, "You are acquitted."|1
+output_408.wav|The man said, "I told you so."|1
+output_409.wav|The judge said, "You are also charged with having|1
+output_410.wav|stolen a pigeon, and the evidence is that you|1
+output_411.wav|were seen at the place where the pigeon was|1
+output_412.wav|stolen, and that you had a bag with you,|1
+output_413.wav|and that the bag contained some feathers, and that|1
+output_414.wav|the feathers were of the same kind as the|1
+output_415.wav|feathers of the pigeon that was stolen."|1
+output_416.wav|The man said, "I have been in this court|1
+output_417.wav|so many times before, and I have always been|1
+output_418.wav|acquitted, and I have no doubt that I will|1
+output_419.wav|be acquitted this time."|1
+output_420.wav|The judge said, "You are acquitted."|1
+output_421.wav|The man said, "I told you so."|1
+output_422.wav|The judge said, "You are also charged with having|1
+output_423.wav|stolen a pigeon, and the evidence is that you|1
+output_424.wav|were seen at the place where the pigeon was|1
+output_425.wav|stolen, and that you had a bag with you,|1
+output_426.wav|and that the bag contained some feathers, and that|1
+output_427.wav|the feathers were of the same kind as the|1
+output_428.wav|feathers of the pigeon that was stolen."|1
+output_429.wav|The man said, "I have been in this court|1
+output_430.wav|so many times before, and I have always been|1
+output_431.wav|acquitted, and I have no doubt that I will|1
+output_432.wav|be acquitted this time."|1
+output_433.wav|The judge said, "You are acquitted."|1
+output_434.wav|The man said, "I told you so."|1
+output_435.wav|The judge said, "You are also charged with having|1
+output_436.wav|stolen a pigeon, and the evidence is that you|1
+output_437.wav|were seen at the place where the pigeon was|1
+output_438.wav|stolen, and that you had a bag with you,|1
+output_439.wav|and that the bag contained some feathers, and that|1
+output_440.wav|the feathers were of the same kind as the|1
+output_441.wav|feathers of the pigeon that was stolen."|1
+output_442.wav|The man said, "I have been in this court|1
+output_443.wav|so many times before, and I have always been|1
+output_444.wav|acquitted, and I have no doubt that I will|1
+output_445.wav|be acquitted this time."|1
+output_446.wav|The judge said, "You are acquitted."|1
+output_447.wav|The man said, "I told you so."|1
+output_448.wav|The judge said, "You are also charged with having|1
+output_449.wav|stolen a pigeon, and the evidence is that you|1
+output_450.wav|were seen at the place where the pigeon was|1
+output_451.wav|stolen, and that you had a bag with you,|1
+output_452.wav|and that the bag contained some feathers, and that|1
+output_453.wav|the feathers were of the same kind as the|1
+output_454.wav|feathers of the pigeon that was stolen."|1
+output_455.wav|The man said, "I have been in this court|1
+output_456.wav|so many times before, and I have always been|1
+output_457.wav|acquitted, and I have no doubt that I will|1
+output_458.wav|be acquitted this time."|1
+output_459.wav|The judge said, "You are acquitted."|1
+output_460.wav|The man said, "I told you so."|1
+output_461.wav|The judge said, "You are also charged with having|1
+output_462.wav|stolen a pigeon, and the evidence is that you|1
+output_463.wav|were seen at the place where the pigeon was|1
+output_464.wav|stolen, and that you had a bag with you,|1
+output_465.wav|and that the bag contained some feathers, and that|1
+output_466.wav|the feathers were of the same kind as the|1
+output_467.wav|feathers of the pigeon that was stolen."|1
+output_468.wav|The man said, "I have been in this court|1
+output_469.wav|so many times before, and I have always been|1
+output_470.wav|acquitted, and I have no doubt that I will|1
+output_471.wav|be acquitted this time."|1
+output_472.wav|The judge said, "You are acquitted."|1
+output_473.wav|The man said, "I told you so."|1
+output_474.wav|The judge said, "You are also charged with having|1
+output_475.wav|stolen a pigeon, and the evidence is that you|1
+output_476.wav|were seen at the place where the pigeon was|1
+output_477.wav|stolen, and that you had a bag with you,|1
+output_478.wav|and that the bag contained some feathers, and that|1
+output_479.wav|the feathers were of the same kind as the|1
+output_480.wav|feathers of the pigeon that was stolen."|1
+output_481.wav|The man said, "I have been in this court|1
+output_482.wav|so many times before, and I have always been|1
+output_483.wav|acquitted, and I have no doubt that I will|1
+output_484.wav|be acquitted this time."|1
+output_485.wav|The judge said, "You are acquitted."|1
+output_486.wav|The man said, "I told you so."|1
+output_487.wav|The judge said, "You are also charged with having|1
+output_488.wav|stolen a pigeon, and the evidence is that you|1
+output_489.wav|were seen at the place where the pigeon was|1
+output_490.wav|stolen, and that you had a bag with you,|1
+output_491.wav|and that the bag contained some feathers, and that|1
+output_492.wav|the feathers were of the same kind as the|1
+output_493.wav|feathers of the pigeon that was stolen."|1
+output_494.wav|The man said, "I have been in this court|1
+output_495.wav|so many times before, and I have always been|1
+output_496.wav|acquitted, and I have no doubt that I will|1
+output_497.wav|be acquitted this time."|1
+output_498.wav|The judge said, "You are acquitted."|1
+output_499.wav|The man said, "I told you so."|1
+output_500.wav|The judge said, "You are also charged with having|1
+output_501.wav|stolen a pigeon, and the evidence is that you|1
+output_502.wav|were seen at the place where the pigeon was|1
+output_503.wav|stolen, and that you had a bag with you,|1
+output_504.wav|and that the bag contained some feathers, and that|1
+output_505.wav|the feathers were of the same kind as the|1
+output_506.wav|feathers of the pigeon that was stolen."|1
+output_507.wav|The man said, "I have been in this court|1
+output_508.wav|so many times before, and I have always been|1
+output_509.wav|acquitted, and I have no doubt that I will|1
+output_510.wav|be acquitted this time."|1
+output_511.wav|The judge said, "You are acquitted."|1
+output_512.wav|The man said, "I told you so."|1
+output_513.wav|The judge said, "You are also charged with having|1
+output_514.wav|stolen a pigeon, and the evidence is that you|1
+output_515.wav|were seen at the place where the pigeon was|1
+output_516.wav|stolen, and that you had a bag with you,|1
+output_517.wav|and that the bag contained some feathers, and that|1
+output_518.wav|the feathers were of the same kind as the|1
+output_519.wav|feathers of the pigeon that was stolen."|1
+output_520.wav|The man said, "I have been in this court|1
+output_521.wav|so many times before, and I have always been|1
+output_522.wav|acquitted, and I have no doubt that I will|1
+output_523.wav|be acquitted this time."|1
+output_524.wav|The judge said, "You are acquitted."|1
+output_525.wav|The man said, "I told you so."|1
+output_526.wav|the police were in charge of the matter under|1
+output_527.wav|the direction of the Department of Justice, and the|1
+output_583.wav|was an attempt at assassination, and that the investigation|1
+output_584.wav|should be carried on by some agency other than the|1
+output_585.wav|local police.|1
+output_586.wav|The Commission believes that the investigation of this|1
+output_587.wav|kind of crime should be conducted by the Department|1
+output_588.wav|of Justice, and that it should be in the|1
+output_589.wav|hands of a special agency that has been created|1
+output_590.wav|for that purpose, or a special agency that has|1
+output_591.wav|been given the power to investigate this kind of|1
+output_592.wav|crime.|1
+output_593.wav|The Commission also believes that the investigation of|1
+output_594.wav|this kind of crime should be conducted by a|1
+output_595.wav|special agency that has been given the power to|1
+output_596.wav|investigate this kind of crime.|1
+output_597.wav|The Commission also believes that the investigation of|1
+output_598.wav|this kind of crime should be conducted by a|1
+output_599.wav|special agency that has been given the power to|1
+output_600.wav|investigate this kind of crime.|1
+output_601.wav|The Commission also believes that the investigation of|1
+output_602.wav|this kind of crime should be conducted by a|1
+output_603.wav|special agency that has been given the power to|1
+output_604.wav|investigate this kind of crime.|1
+output_605.wav|The Commission also believes that the investigation of|1
+output_606.wav|this kind of crime should be conducted by a|1
+output_607.wav|special agency that has been given the power to|1
+output_608.wav|investigate this kind of crime.|1
+output_609.wav|The Commission also believes that the investigation of|1
+output_610.wav|this kind of crime should be conducted by a|1
+output_611.wav|special agency that has been given the power to|1
+output_612.wav|investigate this kind of crime.|1
+output_613.wav|The Commission also believes that the investigation of|1
+output_614.wav|this kind of crime should be conducted by a|1
+output_615.wav|special agency that has been given the power to|1
+output_616.wav|investigate this kind of crime.|1
+output_617.wav|The Commission also believes that the investigation of|1
+output_618.wav|this kind of crime should be conducted by a|1
+output_619.wav|special agency that has been given the power to|1
+output_620.wav|investigate this kind of crime.|1
+output_621.wav|The Commission also believes that the investigation of|1
+output_622.wav|this kind of crime should be conducted by a|1
+output_623.wav|special agency that has been given the power to|1
+output_624.wav|investigate this kind of crime.|1
+output_625.wav|The Commission also believes that the investigation of|1
+output_626.wav|this kind of crime should be conducted by a|1
+output_627.wav|special agency that has been given the power to|1
+output_628.wav|investigate this kind of crime.|1
+output_629.wav|The Commission also believes that the investigation of|1
+output_630.wav|this kind of crime should be conducted by a|1
+output_631.wav|special agency that has been given the power to|1
+output_632.wav|investigate this kind of crime.|1
+output_633.wav|The Commission also believes that the investigation of|1
+output_634.wav|this kind of crime should be conducted by a|1
+output_635.wav|special agency that has been given the power to|1
+output_636.wav|investigate this kind of crime.|1
+output_637.wav|The Commission also believes that the investigation of|1
+output_638.wav|this kind of crime should be conducted by a|1
+output_639.wav|special agency that has been given the power to|1
+output_640.wav|investigate this kind of crime.|1
+output_641.wav|The Commission also believes that the investigation of|1
+output_642.wav|this kind of crime should be conducted by a|1
+output_643.wav|special agency that has been given the power to|1
+output_644.wav|investigate this kind of crime.|1
+output_645.wav|The Commission also believes that the investigation of|1
+output_646.wav|this kind of crime should be conducted by a|1
+output_647.wav|special agency that has been given the power to|1
+output_648.wav|investigate this kind of crime.|1
+output_649.wav|The Commission also believes that the investigation of|1
+output_650.wav|this kind of crime should be conducted by a|1
+output_651.wav|special agency that has been given the power to|1
+output_652.wav|investigate this kind of crime.|1
+output_653.wav|The Commission also believes that the investigation of|1
+output_654.wav|this kind of crime should be conducted by a|1
+output_655.wav|special agency that has been given the power to|1
+output_656.wav|investigate this kind of crime.|1
+output_657.wav|The Commission also believes that the investigation of|1
+output_658.wav|this kind of crime should be conducted by a|1
+output_659.wav|special agency that has been given the power to|1
+output_660.wav|investigate this kind of crime.|1
+output_661.wav|The Commission also believes that the investigation of|1
+output_662.wav|this kind of crime should be conducted by a|1
+output_663.wav|special agency that has been given the power to|1
+output_664.wav|investigate this kind of crime.|1
+output_665.wav|The Commission also believes that the investigation of|1
+output_666.wav|this kind of crime should be conducted by a|1
+output_667.wav|special agency that has been given the power to|1
+output_668.wav|investigate this kind of crime.|1
+output_669.wav|The Commission also believes that the investigation of|1
+output_670.wav|this kind of crime should be conducted by a|1
+output_671.wav|special agency that has been given the power to|1
+output_672.wav|investigate this kind of crime.|1
+output_673.wav|The Commission also believes that the investigation of|1
+output_674.wav|this kind of crime should be conducted by a|1
+output_675.wav|special agency that has been given the power to|1
+output_676.wav|investigate this kind of crime.|1
+output_677.wav|The Commission also believes that the investigation of|1
+output_678.wav|this kind of crime should be conducted by a|1
+output_679.wav|special agency that has been given the power to|1
+output_680.wav|investigate this kind of crime.|1
+output_681.wav|The Commission also believes that the investigation of|1
+output_682.wav|this kind of crime should be conducted by a|1
+output_683.wav|special agency that has been given the power to|1
+output_684.wav|investigate this kind of crime.|1
+output_685.wav|The Commission also believes that the investigation of|1
+output_686.wav|this kind of crime should be conducted by a|1
+output_687.wav|special agency that has been given the power to|1
+output_688.wav|investigate this kind of crime.|1
+output_689.wav|The Commission also believes that the investigation of|1
+output_690.wav|this kind of crime should be conducted by a|1
+output_691.wav|special agency that has been given the power to|1
+output_692.wav|investigate this kind of crime.|1
+output_693.wav|The Commission also believes that the investigation of|1
+output_694.wav|this kind of crime should be conducted by a|1
+output_695.wav|special agency that has been given the power to|1
+output_696.wav|investigate this kind of crime.|1
+output_697.wav|The Commission also believes that the investigation of|1
+output_698.wav|this kind of crime should be conducted by a|1
+output_699.wav|special agency that has been given the power to|1
+output_700.wav|investigate this kind of crime.|1
+output_701.wav|The Commission also believes that the investigation of|1
+output_702.wav|this kind of crime should be conducted by a|1
+output_703.wav|special agency that has been given the power to|1
+output_704.wav|investigate this kind of crime.|1
+output_705.wav|The Commission also believes that the investigation of|1
+output_706.wav|this kind of crime should be conducted by a|1
+output_707.wav|special agency that has been given the power to|1
+output_708.wav|investigate this kind of crime.|1
+output_709.wav|The Commission also believes that the investigation of|1
+output_710.wav|this kind of crime should be conducted by a|1
+output_711.wav|special agency that has been given the power to|1
+output_712.wav|investigate this kind of crime.|1
+output_713.wav|The Commission also believes that the investigation of|1
+output_714.wav|this kind of crime should be conducted by a|1
+output_715.wav|special agency that has been given the power to|1
+output_716.wav|investigate this kind of crime.|1
+output_717.wav|The Commission also believes that the investigation of|1
+output_718.wav|this kind of crime should be conducted by a|1
+output_719.wav|special agency that has been given the power to|1
+output_720.wav|investigate this kind of crime.|1
+output_721.wav|The Commission also believes that the investigation of|1
+output_722.wav|this kind of crime should be conducted by a|1
+output_723.wav|special agency that has been given the power to|1
+output_724.wav|investigate this kind of crime.|1
+output_725.wav|The Commission also believes that the investigation of|1
+output_726.wav|this kind of crime should be conducted by a|1
+output_727.wav|special agency that has been given the power to|1
+output_728.wav|investigate this kind of crime.|1
+output_729.wav|The Commission also believes that the investigation of|1
+output_730.wav|this kind of crime should be conducted by a|1
+output_731.wav|special agency that has been given the power to|1
+output_732.wav|investigate this kind of crime.|1
+output_733.wav|The Commission also believes that the investigation of|1
+output_734.wav|this kind of crime should be conducted by a|1
+output_735.wav|special agency that has been given the power to|1
+output_736.wav|investigate this kind of crime.|1
+output_737.wav|The Commission also believes that the investigation of|1
+output_738.wav|this kind of crime should be conducted by a|1
+output_739.wav|special agency that has been given the power to|1
+output_740.wav|investigate this kind of crime.|1
+output_741.wav|The Commission also believes that the investigation of|1
+output_742.wav|this kind of crime should be conducted by a|1
+output_743.wav|special agency that has been given the power to|1
+output_744.wav|investigate this kind of crime.|1
+output_745.wav|The Commission also believes that the investigation of|1
+output_746.wav|this kind of crime should be conducted by a|1
+output_747.wav|special agency that has been given the power to|1
+output_748.wav|investigate this kind of crime.|1
+output_749.wav|The Commission also believes that the investigation of|1
+output_750.wav|this kind of crime should be conducted by a|1
+output_751.wav|special agency that has been given the power to|1
+output_752.wav|investigate this kind of crime.|1
+output_753.wav|The Commission also believes that the investigation of|1
+output_754.wav|this kind of crime should be conducted by a|1
+output_755.wav|special agency that has been given the power to|1
+output_756.wav|investigate this kind of crime.|1
+output_757.wav|The Commission also believes that the investigation of|1
+output_758.wav|this kind of crime should be conducted by a|1
+output_759.wav|special agency that has been given the power to|1
+output_760.wav|investigate this kind of crime.|1
+output_761.wav|The Commission also believes that the investigation of|1
+output_762.wav|this kind of crime should be conducted by a|1
+output_763.wav|special agency that has been given the power to|1
+output_764.wav|investigate this kind of crime.|1
+output_765.wav|The Commission also believes that the investigation of|1
+output_766.wav|this kind of crime should be conducted by a|1
+output_767.wav|special agency that has been given the power to|1
+output_768.wav|investigate this kind of crime.|1
+output_769.wav|The Commission also believes that the investigation of|1
+output_770.wav|this kind of crime should be conducted by a|1
+output_771.wav|special agency that has been given the power to|1
+output_772.wav|investigate this kind of crime.|1
+output_773.wav|The Commission also believes that the investigation of|1
+output_774.wav|this kind of crime should be conducted by a|1
+output_775.wav|special agency that has been given the power to|1
+output_776.wav|investigate this kind of crime.|1
+output_777.wav|The Commission also believes that the investigation of|1
+output_778.wav|this kind of crime should be conducted by a|1
+output_779.wav|special agency that has been given the power to|1
+output_780.wav|investigate this kind of crime.|1
+output_781.wav|The Commission also believes that the investigation of|1
+output_782.wav|this kind of crime should be conducted by a|1
+output_783.wav|special agency that has been given the power to|1
+output_784.wav|investigate this kind of crime.|1
+output_785.wav|The Commission also believes that the investigation of|1
+output_786.wav|this kind of crime should be conducted by a|1
+output_787.wav|special agency that has been given the power to|1
+output_788.wav|investigate this kind of crime.|1
+output_789.wav|The Commission also believes that the investigation of|1
+output_790.wav|this kind of crime should be conducted by a|1
+output_791.wav|special agency that has been given the power to|1
+output_792.wav|investigate this kind of crime.|1
+output_793.wav|The Commission also believes that the investigation of|1
+output_794.wav|this kind of crime should be conducted by a|1
+output_795.wav|special agency that has been given the power to|1
+output_796.wav|investigate this kind of crime.|1
+output_797.wav|The Commission also believes that the investigation of|1
+output_798.wav|this kind of crime should be conducted by a|1
+output_799.wav|special agency that has been given the power to|1
+output_800.wav|investigate this kind of crime.|1
+output_801.wav|The Commission also believes that the investigation of|1
+output_802.wav|this kind of crime should be conducted by a|1
+output_803.wav|special agency that has been given the power to|1
+output_804.wav|investigate this kind of crime.|1
+output_805.wav|The Commission also believes that the investigation of|1
+output_806.wav|this kind of crime should be conducted by a|1
+output_807.wav|special agency that has been given the power to|1
+output_808.wav|investigate this kind of crime.|1
+output_809.wav|The Commission also believes that the investigation of|1
+output_810.wav|this kind of crime should be conducted by a|1
+output_811.wav|special agency that has been given the power to|1
+output_812.wav|investigate this kind of crime.|1
+output_813.wav|The Commission also believes that the investigation of|1
+output_814.wav|this kind of crime should be conducted by a|1
+output_815.wav|special agency that has been given the power to|1
+output_816.wav|investigate this kind of crime.|1
+output_817.wav|The Commission also believes that the investigation of|1
+output_818.wav|this kind of crime should be conducted by a|1
+output_819.wav|special agency that has been given the power to|1
+output_820.wav|investigate this kind of crime.|1
+output_821.wav|The Commission also believes that the investigation of|1
+output_822.wav|this kind of crime should be conducted by a|1
+output_823.wav|special agency that has been given the power to|1
+output_824.wav|investigate this kind of crime.|1
+output_825.wav|The Commission also believes that the investigation of|1
+output_826.wav|this kind of crime should be conducted by a|1
+output_827.wav|special agency that has been given the power to|1
+output_828.wav|investigate this kind of crime.|1
+output_829.wav|The Commission also believes that the investigation of|1
+output_830.wav|this kind of crime should be conducted by a|1
+output_831.wav|special agency that has been given the power to|1
+output_832.wav|investigate this kind of crime.|1
+output_833.wav|The Commission also believes that the investigation of|1
+output_834.wav|this kind of crime should be conducted by a|1
+output_835.wav|special agency that has been given the power to|1
+output_836.wav|investigate this kind of crime.|1
+output_837.wav|The Commission also believes that the investigation of|1
+output_838.wav|this kind of crime should be conducted by a|1
+output_839.wav|special agency that has been given the power to|1
+output_840.wav|investigate this kind of crime.|1
+output_841.wav|The Commission also believes that the investigation of|1
+output_842.wav|this kind of crime should be conducted by a|1
+output_843.wav|special agency that has been given the power to|1
+output_844.wav|investigate this kind of crime.|1
+output_845.wav|The Commission also believes that the investigation of|1
+output_846.wav|this kind of crime should be conducted by a|1
+output_847.wav|special agency that has been given the power to|1
+output_848.wav|investigate this kind of crime.|1
+output_849.wav|The Commission also believes that the investigation of|1
+output_850.wav|this kind of crime should be conducted by a|1
+output_851.wav|special agency that has been given the power to|1
+output_852.wav|investigate this kind of crime.|1
+output_853.wav|The Commission also believes that the investigation of|1
+output_854.wav|this kind of crime should be conducted by a|1
+output_855.wav|special agency that has been given the power to|1
+output_856.wav|investigate this kind of crime.|1
+output_857.wav|The Commission also believes that the investigation of|1
+output_858.wav|this kind of crime should be conducted by a|1
+output_859.wav|special agency that has been given the power to|1
+output_860.wav|investigate this kind of crime.|1
+output_861.wav|The Commission also believes that the investigation of|1
+output_862.wav|this kind of crime should be conducted by a|1
+output_863.wav|special agency that has been given the power to|1
+output_864.wav|investigate this kind of crime.|1
+output_865.wav|The Commission also believes that the investigation of|1
+output_866.wav|this kind of crime should be conducted by a|1
+output_867.wav|special agency that has been given the power to|1
+output_868.wav|investigate this kind of crime.|1
+output_869.wav|The Commission also believes that the investigation of|1
+output_870.wav|this kind of crime should be conducted by a|1
+output_871.wav|special agency that has been given the power to|1
+output_872.wav|investigate this kind of crime.|1
+output_873.wav|The Commission also believes that the investigation of|1
+output_874.wav|this kind of crime should be conducted by a|1
+output_875.wav|special agency that has been given the power to|1
+output_876.wav|investigate this kind of crime.|1
+output_877.wav|The Commission also believes that the investigation of|1
+output_878.wav|this kind of crime should be conducted by a|1
+output_879.wav|special agency that has been given the power to|1
+output_880.wav|investigate this kind of crime.|1
+output_881.wav|The Commission also believes that the investigation of|1
+output_882.wav|this kind of crime should be conducted by a|1
+output_883.wav|special agency that has been given the power to|1
+output_884.wav|investigate this kind of crime.|1
+output_885.wav|The Commission also believes that the investigation of|1
+output_886.wav|this kind of crime should be conducted by a|1
+output_887.wav|special agency that has been given the power to|1
+output_888.wav|investigate this kind of crime.|1
+output_889.wav|The Commission also believes that the investigation of|1
+output_890.wav|this kind of crime should be conducted by a|1
+output_891.wav|special agency that has been given the power to|1
+output_892.wav|investigate this kind of crime.|1
+output_893.wav|The Commission also believes that the investigation of|1
+output_894.wav|this kind of crime should be conducted by a|1
+output_895.wav|special agency that has been given the power to|1
+output_896.wav|investigate this kind of crime.|1
+output_897.wav|The Commission also believes that the investigation of|1
+output_898.wav|this kind of crime should be conducted by a|1
+output_899.wav|special agency that has been given the power to|1
+output_900.wav|investigate this kind of crime.|1
+output_901.wav|The Commission also believes that the investigation of|1
+output_902.wav|this kind of crime should be conducted by a|1
+output_903.wav|special agency that has been given the power to|1
+output_904.wav|investigate this kind of crime.|1
+output_905.wav|The Commission also believes that the investigation of|1
+output_906.wav|this kind of crime should be conducted by a|1
+output_907.wav|special agency that has been given the power to|1
+output_908.wav|investigate this kind of crime.|1
+output_909.wav|The Commission also believes that the investigation of|1
+output_910.wav|this kind of crime should be conducted by a|1
+output_911.wav|special agency that has been given the power to|1
+output_912.wav|investigate this kind of crime.|1
+output_913.wav|The Commission also believes that the investigation of|1
+output_914.wav|this kind of crime should be conducted by a|1
+output_915.wav|special agency that has been given the power to|1
+output_916.wav|investigate this kind of crime.|1
+output_917.wav|The Commission also believes that the investigation of|1
+output_918.wav|this kind of crime should be conducted by a|1
+output_919.wav|special agency that has been given the power to|1
+output_920.wav|investigate this kind of crime.|1
+output_921.wav|The Commission also believes that the investigation of|1
+output_922.wav|this kind of crime should be conducted by a|1
+output_923.wav|special agency that has been given the power to|1
+output_924.wav|investigate this kind of crime.|1
+output_925.wav|The Commission also believes that the investigation of|1
+output_926.wav|this kind of crime should be conducted by a|1
+output_927.wav|special agency that has been given the power to|1
+output_928.wav|investigate this kind of crime.|1
+output_929.wav|The Commission also believes that the investigation of|1
+output_930.wav|this kind of crime should be conducted by a|1
+output_931.wav|special agency that has been given the power to|1
+output_932.wav|investigate this kind of crime.|1
+output_933.wav|The Commission also believes that the investigation of|1
+output_934.wav|this kind of crime should be conducted by a|1
+output_935.wav|special agency that has been given the power to|1
+output_936.wav|investigate this kind of crime.|1
+output_937.wav|The Commission also believes that the investigation of|1
+output_938.wav|this kind of crime should be conducted by a|1
+output_939.wav|special agency that has been given the power to|1
+output_940.wav|investigate this kind of crime.|1
+output_941.wav|The Commission also believes that the investigation of|1
+output_942.wav|this kind of crime should be conducted by a|1
+output_943.wav|special agency that has been given the power to|1
+output_944.wav|investigate this kind of crime.|1
+output_945.wav|The Commission also believes that the investigation of|1
+output_946.wav|this kind of crime should be conducted by a|1
+output_947.wav|special agency that has been given the power to|1
+output_948.wav|investigate this kind of crime.|1
+output_949.wav|The Commission also believes that the investigation of|1
+output_950.wav|this kind of crime should be conducted by a|1
+output_951.wav|special agency that has been given the power to|1
+output_952.wav|investigate this kind of crime.|1
+output_953.wav|The Commission also believes that the investigation of|1
+output_954.wav|this kind of crime should be conducted by a|1
+output_955.wav|special agency that has been given the power to|1
+output_956.wav|investigate this kind of crime.|1
+output_957.wav|The Commission also believes that the investigation of|1
+output_958.wav|this kind of crime should be conducted by a|1
+output_959.wav|special agency that has been given the power to|1
+output_960.wav|investigate this kind of crime.|1
+output_961.wav|The Commission also believes that the investigation of|1
+output_962.wav|this kind of crime should be conducted by a|1
+output_963.wav|special agency that has been given the power to|1
+output_964.wav|investigate this kind of crime.|1
+output_965.wav|The Commission also believes that the investigation of|1
+output_966.wav|this kind of crime should be conducted by a|1
+output_967.wav|special agency that has been given the power to|1
+output_968.wav|investigate this kind of crime.|1
+output_969.wav|The Commission also believes that the investigation of|1
+output_970.wav|this kind of crime should be conducted by a|1
+output_971.wav|special agency that has been given the power to|1
+output_972.wav|investigate this kind of crime.|1
+output_973.wav|The Commission also believes that the investigation of|1
+output_974.wav|this kind of crime should be conducted by a|1
+output_975.wav|special agency that has been given the power to|1
+output_976.wav|investigate this kind of crime.|1
+output_977.wav|The Commission also believes that the investigation of|1
+output_978.wav|this kind of crime should be conducted by a|1
+output_979.wav|special agency that has been given the power to|1
+output_980.wav|investigate this kind of crime.|1
+output_981.wav|The Commission also believes that the investigation of|1
+output_982.wav|this kind of crime should be conducted by a|1
+output_983.wav|special agency that has been given the power to|1
+output_984.wav|investigate this kind of crime.|1
+output_985.wav|The Commission also believes that the investigation of|1
+output_986.wav|this kind of crime should be conducted by a|1
+output_987.wav|special agency that has been given the power to|1
+output_988.wav|investigate this kind of crime.|1
+output_989.wav|The Commission also believes that the investigation of|1
+output_990.wav|this kind of crime should be conducted by a|1
+output_991.wav|special agency that has been given the power to|1
+output_992.wav|investigate this kind of crime.|1
+output_993.wav|The Commission also believes that the investigation of|1
+output_994.wav|this kind of crime should be conducted by a|1
+output_995.wav|special agency that has been given the power to|1
+output_996.wav|investigate this kind of crime.|1
+output_997.wav|The Commission also believes that the investigation of|1
+output_998.wav|this kind of crime should be conducted by a|1
+output_999.wav|special agency that has been given the power to|1
+output_1000.wav|investigate this kind of crime.|1
+output_1001.wav|The Commission also believes that the investigation of|1
+output_1002.wav|this kind of crime should be conducted by a|1
+output_1003.wav|special agency that has been given the power to|1
+output_1004.wav|investigate this kind of crime.|1
+output_1005.wav|The Commission also believes that the investigation of|1
+output_1006.wav|this kind of crime should be conducted by a|1
+output_1007.wav|special agency that has been given the power to|1
+output_1008.wav|investigate this kind of crime.|1
+output_1009.wav|The Commission also believes that the investigation of|1
+output_1010.wav|this kind of crime should be conducted by a|1
+output_1011.wav|special agency that has been given the power to|1
+output_1012.wav|investigate this kind of crime.|1
+output_1013.wav|The Commission also believes that the investigation of|1
+output_1014.wav|this kind of crime should be conducted by a|1
+output_1015.wav|special agency that has been given the power to|1
+output_1016.wav|investigate this kind of crime.|1
+output_1017.wav|The Commission also believes that the investigation of|1
+output_1018.wav|this kind of crime should be conducted by a|1
+output_1019.wav|special agency that has been given the power to|1
+output_1020.wav|investigate this kind of crime.|1
+output_1021.wav|The Commission also believes that the investigation of|1
+output_1022.wav|this kind of crime should be conducted by a|1
+output_1023.wav|special agency that has been given the power to|1
+output_1024.wav|investigate this kind of crime.|1
+output_1025.wav|The Commission also believes that the investigation of|1
+output_1026.wav|this kind of crime should be conducted by a|1
+output_1027.wav|special agency that has been given the power to|1
+output_1028.wav|investigate this kind of crime.|1
+output_1029.wav|The Commission also believes that the investigation of|1
+output_1030.wav|this kind of crime should be conducted by a|1
+output_1031.wav|special agency that has been given the power to|1
+output_1032.wav|investigate this kind of crime.|1
+output_1033.wav|The Commission also believes that the investigation of|1
+output_1034.wav|this kind of crime should be conducted by a|1
+output_1035.wav|special agency that has been given the power to|1
+output_1036.wav|investigate this kind of crime.|1
+output_1037.wav|The Commission also believes that the investigation of|1
+output_1038.wav|this kind of crime should be conducted by a|1
+output_1039.wav|special agency that has been given the power to|1
+output_1040.wav|investigate this kind of crime.|1
+output_1041.wav|The Commission also believes that the investigation of|1
+output_1042.wav|this kind of crime should be conducted by a|1
+output_1043.wav|special agency that has been given the power to|1
+output_1044.wav|investigate this kind of crime.|1
+output_1045.wav|The Commission also believes that the investigation of|1
+output_1046.wav|this kind of crime should be conducted by a|1
+output_1047.wav|special agency that has been given the power to|1
+output_1048.wav|investigate this kind of crime.|1
+output_1049.wav|The Commission also believes that the investigation of|1
+output_1050.wav|this kind of crime should be conducted by a|1
+output_1051.wav|special agency that has been given the power to|1
+output_1052.wav|investigate this kind of crime.|1
+output_1053.wav|The Commission also believes that the investigation of|1
+output_1054.wav|this kind of crime should be conducted by a|1
+output_1055.wav|special agency that has been given the power to|1
+output_1056.wav|investigate this kind of crime.|1
+output_1057.wav|The Commission also believes that the investigation of|1
+output_1058.wav|this kind of crime should be conducted by a|1
+output_1059.wav|special agency that has been given the power to|1
+output_1060.wav|investigate this kind of crime.|1
+output_1061.wav|The Commission also believes that the investigation of|1
+output_1062.wav|this kind of crime should be conducted by a|1
+output_1063.wav|special agency that has been given the power to|1
+output_1064.wav|investigate this kind of crime.|1
+output_1065.wav|The Commission also believes that the investigation of|1
+output_1066.wav|this kind of crime should be conducted by a|1
+output_1067.wav|special agency that has been given the power to|1
+output_1068.wav|investigate this kind of crime.|1
+output_1069.wav|The Commission also believes that the investigation of|1
+output_1070.wav|this kind of crime should be conducted by a|1
+output_1071.wav|special agency that has been given the power to|1
+output_1072.wav|investigate this kind of crime.|1
+output_1073.wav|The Commission also believes that the investigation of|1
+output_1074.wav|this kind of crime should be conducted by a|1
+output_1075.wav|special agency that has been given the power to|1
+output_1076.wav|investigate this kind of crime.|1
+output_1077.wav|The Commission also believes that the investigation of|1
+output_1078.wav|this kind of crime should be conducted by a|1
+output_1079.wav|special agency that has been given the power to|1
+output_1080.wav|investigate this kind of crime.|1
+output_1081.wav|The Commission also believes that the investigation of|1
+output_1082.wav|this kind of crime should be conducted by a|1
+output_1083.wav|special agency that has been given the power to|1
+output_1084.wav|investigate this kind of crime.|1
+output_1085.wav|The Commission also believes that the investigation of|1
+output_1086.wav|this kind of crime should be conducted by a|1
+output_1087.wav|special agency that has been given the power to|1
+output_1088.wav|investigate this kind of crime.|1
+output_1089.wav|The Commission also believes that the investigation of|1
+output_1090.wav|this kind of crime should be conducted by a|1
+output_1091.wav|special agency that has been given the power to|1
+output_1092.wav|investigate this kind of crime.|1
+output_1093.wav|The Commission also believes that the investigation of|1
+output_1094.wav|this kind of crime should be conducted by a|1
+output_1095.wav|special agency that has been given the power to|1
+output_1096.wav|investigate this kind of crime.|1
+output_1097.wav|The Commission also believes that the investigation of|1
+output_1098.wav|this kind of crime should be conducted by a|1
+output_1099.wav|special agency that has been given the power to|1
+output_1100.wav|investigate this kind of crime.|1
+output_1101.wav|The Commission also believes that the investigation of|1
+output_1102.wav|this kind of crime should be conducted by a|1
+output_1103.wav|special agency that has been given the power to|1
+output_1104.wav|investigate this kind of crime.|1
+output_1105.wav|The Commission also believes that the investigation of|1
+output_1106.wav|this kind of crime should be conducted by a|1
+output_1107.wav|special agency that has been given the power to|1
+output_1108.wav|investigate this kind of crime.|1
+output_1109.wav|The Commission also believes that the investigation of|1
+output_1110.wav|this kind of crime should be conducted by a|1
+output_1111.wav|special agency that has been given the power to|1
+output_1112.wav|investigate this kind of crime.|1
+output_1113.wav|The Commission also believes that the investigation of|1
+output_1114.wav|this kind of crime should be conducted by a|1
+output_1115.wav|special agency that has been given the power to|1
+output_1116.wav|investigate this kind of crime.|1
+output_1117.wav|The Commission also believes that the investigation of|1
+output_1118.wav|this kind of crime should be conducted by a|1
+output_1119.wav|special agency that has been given the power to|1
+output_1120.wav|investigate this kind of crime.|1
+output_1121.wav|The Commission also believes that the investigation of|1
+output_1122.wav|this kind of crime should be conducted by a|1
+output_1123.wav|special agency that has been given the power to|1
+output_1124.wav|investigate this kind of crime.|1
+output_1125.wav|The Commission also believes that the investigation of|1
+output_1126.wav|this kind of crime should be conducted by a|1
+output_1127.wav|special agency that has been given the power to|1
+output_1128.wav|investigate this kind of crime.|1
+output_1129.wav|The Commission also believes that the investigation of|1
+output_1130.wav|this kind of crime should be conducted by a|1
+output_1131.wav|special agency that has been given the power to|1
+output_1132.wav|investigate this kind of crime.|1
+output_1133.wav|The Commission also believes that the investigation of|1
+output_1134.wav|this kind of crime should be conducted by a|1
+output_1135.wav|special agency that has been given the power to|1
+output_1136.wav|investigate this kind of crime.|1
+output_1137.wav|The Commission also believes that the investigation of|1
+output_1138.wav|this kind of crime should be conducted by a|1
+output_1139.wav|special agency that has been given the power to|1
+output_1140.wav|investigate this kind of crime.|1
+output_1141.wav|The Commission also believes that the investigation of|1
+output_1142.wav|this kind of crime should be conducted by a|1
+output_1143.wav|special agency that has been given the power to|1
+output_1144.wav|investigate this kind of crime.|1
+output_1145.wav|The Commission also believes that the investigation of|1
+output_1146.wav|this kind of crime should be conducted by a|1
+output_1147.wav|special agency that has been given the power to|1
+output_1148.wav|investigate this kind of crime.|1
+output_1149.wav|The Commission also believes that the investigation of|1
+output_1150.wav|this kind of crime should be conducted by a|1
+output_1151.wav|special agency that has been given the power to|1
+output_1152.wav|investigate this kind of crime.|1
+output_1153.wav|The Commission also believes that the investigation of|1
+output_1154.wav|this kind of crime should be conducted by a|1
+output_1155.wav|special agency that has been given the power to|1
+output_1156.wav|investigate this kind of crime.|1
+output_1157.wav|The Commission also believes that the investigation of|1
+output_1158.wav|this kind of crime should be conducted by a|1
+output_1159.wav|special agency that has been given the power to|1
+output_1160.wav|investigate this kind of crime.|1
+output_1161.wav|The Commission also believes that the investigation of|1
+output_1162.wav|this kind of crime should be conducted by a|1
+output_1163.wav|special agency that has been given the power to|1
+output_1164.wav|investigate this kind of crime.|1
+output_1165.wav|The Commission also believes that the investigation of|1
+output_1166.wav|this kind of crime should be conducted by a|1
+output_1167.wav|special agency that has been given the power to|1
+output_1168.wav|investigate this kind of crime.|1
+output_1169.wav|The Commission also believes that the investigation of|1
+output_1170.wav|this kind of crime should be conducted by a|1
+output_1171.wav|special agency that has been given the power to|1
+output_1172.wav|investigate this kind of crime.|1
+output_1173.wav|The Commission also believes that the investigation of|1
+output_1174.wav|this kind of crime should be conducted by a|1
+output_1175.wav|special agency that has been given the power to|1
+output_1176.wav|investigate this kind of crime.|1
+output_1177.wav|The Commission also believes that the investigation of|1
+output_1178.wav|this kind of crime should be conducted by a|1
+output_1179.wav|special agency that has been given the power to|1
+output_1180.wav|investigate this kind of crime.|1
+output_1181.wav|The Commission also believes that the investigation of|1
+output_1182.wav|this kind of crime should be conducted by a|1
+output_1183.wav|special agency that has been given the power to|1
+output_1184.wav|investigate this kind of crime.|1
+output_1185.wav|The Commission also believes that the investigation of|1
+output_1186.wav|this kind of crime should be conducted by a|1
+output_1187.wav|special agency that has been given the power to|1
+output_1188.wav|investigate this kind of crime.|1
+output_1189.wav|The Commission also believes that the investigation of|1
+output_1190.wav|this kind of crime should be conducted by a|1
+output_1191.wav|special agency that has been given the power to|1
+output_1192.wav|investigate this kind of crime.|1
+output_1193.wav|The Commission also believes that the investigation of|1
+output_1194.wav|this kind of crime should be conducted by a|1
+output_1195.wav|special agency that has been given the power to|1
+output_1196.wav|investigate this kind of crime.|1
+output_1197.wav|The Commission also believes that the investigation of|1
+output_1198.wav|this kind of crime should be conducted by a|1
+output_1199.wav|special agency that has been given the power to|1
+output_1200.wav|investigate this kind of crime.|1
