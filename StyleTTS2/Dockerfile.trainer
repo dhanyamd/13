@@ -1,0 +1,40 @@
+# syntax=docker/dockerfile:1.4
+
+FROM pytorch/pytorch:2.1.0-cuda11.8-cudnn8-runtime
+
+WORKDIR /app
+
+# Install system dependencies.
+RUN apt-get update && apt-get install -y \
+    build-essential \
+    git \
+    python3-dev \
+    espeak-ng \
+    libsndfile1 \
+    && rm -rf /var/lib/apt/lists/*
+
+# Install uv inside the image.
+RUN python3 -m pip install --no-cache-dir uv
+
+# Copy requirements.txt to maximize caching.
+COPY requirements.txt .
+
+# Install dependencies directly into the system using --system
+RUN --mount=type=cache,target=/root/.cache/uv \
+    UV_COMPILE_BYTECODE=1 uv pip install --system -r requirements.txt && \
+    UV_COMPILE_BYTECODE=1 uv pip install --system accelerate
+# Add the local user's binary directory to the PATH for the executables
+ENV PATH="/root/.local/bin:$PATH"
+
+# Copy the rest of the application code.
+COPY . .
+
+ENV PYTHONPATH=/app
+ENV TORCH_HOME=/app/Models
+
+RUN echo '#!/bin/bash\n\
+accelerate launch --mixed_precision=fp16 --num_processes=1 \
+train_finetune_accelerate.py --config_path ./Configs/config_ft.yml' > entrypoint.sh \
+&& chmod +x entrypoint.sh
+
+ENTRYPOINT ["./entrypoint.sh"]
