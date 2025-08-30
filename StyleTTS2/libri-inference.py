@@ -193,7 +193,7 @@ if __name__ == "__main__":
         model_path="Models/LibriTTS/epochs_2nd_00020.pth"
     )
 
-    ref_style = synthesiser.compute_style("Models/LibriTTS/woman.wav")
+    ref_style = synthesiser.compute_style("Models/LibriTTS/emma.wav")
 
     # Generate speech
     audio = synthesiser.inference(
