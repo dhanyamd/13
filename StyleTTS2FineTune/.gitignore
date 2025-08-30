@@ -6,3 +6,10 @@ logs/*
 checkpoints/* 
 output.wav
 *.npy
+makeDataset/tools/badAudio/*
+/*.wav
+__pycache__/*
+*.pyc
+badAudio/*
+*.wav
+*.flac
