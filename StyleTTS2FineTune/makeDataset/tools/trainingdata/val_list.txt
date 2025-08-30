@@ -1,15 +1,15 @@
-output_127.wav|ðə fˈɛðɚz wɜːɹ ʌv ðə sˈeɪm kˈaɪnd æz ðə|1
-output_128.wav|fˈɛðɚz ʌv ðə tʃˈɪkən ðæt wʌz stˈoʊlən."|1
-output_129.wav|ðə mˈæn sˈɛd, "aɪ hæv bˈiːn ɪn ðɪs kˈɔːɹt|1
-output_130.wav|sˌoʊ mˈɛni tˈaɪmz bɪfˈɔːɹ, ænd aɪ hæv ˈɔːlweɪz bˈiːn|1
-output_131.wav|əkwˈɪɾəd, ænd aɪ hæv nˈoʊ dˈaʊt ðæt aɪ wɪl|1
-output_132.wav|biː əkwˈɪɾəd ðɪs tˈaɪm."|1
-output_133.wav|ðə dʒˈʌdʒ sˈɛd, "juː ɑːɹ əkwˈɪɾəd."|1
-output_134.wav|ðə mˈæn sˈɛd, "aɪ tˈoʊld juː sˈoʊ."|1
-output_135.wav|ðə dʒˈʌdʒ sˈɛd, "juː ɑːɹ ˈɔːlsoʊ tʃˈɑːɹdʒd wɪð hˈævɪŋ|1
-output_136.wav|stˈoʊlən ə ɡˈuːs, ænd ðə ˈɛvədəns ɪz ðæt juː|1
-output_137.wav|wɜːɹ sˈiːn æt ðə plˈeɪs wˌɛɹ ðə ɡˈuːs wʌz|1
-output_138.wav|stˈoʊlən, ænd ðæt juː hˈæd ə bˈæɡ wɪð juː,|1
-output_139.wav|ænd ðæt ðə bˈæɡ kəntˈeɪnd sʌm fˈɛðɚz, ænd ðæt|1
-output_140.wav|ðə fˈɛðɚz wɜːɹ ʌv ðə sˈeɪm kˈaɪnd æz ðə|1
-output_141.wav|fˈɛðɚz ʌv ðə ɡˈuːs ðæt wʌz stˈoʊlən."|1
+output_79.wav|ɪf juː hæv sˈɪmɪlɚ dˈaʊts wɛn ɑːpɚtˈuːnᵻɾiz ɑːɹ pɹɪzˈɛntᵻd tə juː, aɪ hˈoʊp ðæt ðoʊz wˈɜːdz wɪl biː hˈɛlpfəl bɪkˈʌz |1
+output_81.wav|fˈɪftiːn.fˈaɪv mˈɪliən ɡˈɜːlz wɪl biː mˈæɹid ɪnðə nˈɛkst sˈɪkstiːn jˈɪɹz æz tʃˈɪldɹən. |1
+output_81.wav|fˈɪftiːn.fˈaɪv mˈɪliən ɡˈɜːlz wɪl biː mˈæɹid ɪnðə nˈɛkst sˈɪkstiːn jˈɪɹz æz tʃˈɪldɹən. |1
+output_83.wav|ɪf juː bᵻlˈiːv ɪn iːkwˈɔlᵻɾi, juː mˌaɪt biː wˈʌn ʌv ðoʊz ɪnɐdvˈɜːtənt fˈɛmɪnˌɪsts ðæt aɪ spˈoʊk ʌv ˈɜːlɪɚ. |1
+output_83.wav|ɪf juː bᵻlˈiːv ɪn iːkwˈɔlᵻɾi, juː mˌaɪt biː wˈʌn ʌv ðoʊz ɪnɐdvˈɜːtənt fˈɛmɪnˌɪsts ðæt aɪ spˈoʊk ʌv ˈɜːlɪɚ. |1
+output_84.wav|ænd fɔːɹ ðˈɪs, aɪ ɐplˈɔːd juː. |1
+output_84.wav|ænd fɔːɹ ðˈɪs, aɪ ɐplˈɔːd juː. |1
+output_85.wav|wiː ɑːɹ stɹˈʌɡlɪŋ fɚɹə juːnˈaɪɾɪŋ wˈɜːd |1
+output_85.wav|wiː ɑːɹ stɹˈʌɡlɪŋ fɚɹə juːnˈaɪɾɪŋ wˈɜːd |1
+output_86.wav|bˌʌt ðə ɡˈʊd nˈuːz ɪz ðæt wiː hæv ɐ juːnˈaɪɾɪŋ mˈuːvmənt. |1
+output_86.wav|bˌʌt ðə ɡˈʊd nˈuːz ɪz ðæt wiː hæv ɐ juːnˈaɪɾɪŋ mˈuːvmənt. |1
+output_88.wav|aɪɐm ɪnvˈaɪɾɪŋ juː tə stˈɛp fˈɔːɹwɚd, təbi sˈiːn, ænd tʊ ˈæsk joːɹsˈɛlf, ɪf nˌɑːt mˌiː, hˈuː? |1
+output_88.wav|aɪɐm ɪnvˈaɪɾɪŋ juː tə stˈɛp fˈɔːɹwɚd, təbi sˈiːn, ænd tʊ ˈæsk joːɹsˈɛlf, ɪf nˌɑːt mˌiː, hˈuː? |1
+output_89.wav|ɪf nˌɑːt nˈaʊ, wˌɛn? |1
+output_89.wav|ɪf nˌɑːt nˈaʊ, wˌɛn? |1
