@@ -6,4 +6,8 @@ env/
 *.pyc
 logs/
 *.pth
-Models
+Models/
+segmentedAudio/
+audio/
+checkpoints/
+/StyleGuide/StyleTTS2/* --- IGNORE ---

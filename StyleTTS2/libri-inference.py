@@ -190,14 +190,14 @@ class StyleTTS2Inference:
 if __name__ == "__main__":
     synthesiser = StyleTTS2Inference(
         config_path="Models/LibriTTS/config.yml",
-        model_path="Models/LibriTTS/epochs_2nd_00020.pth"
+        model_path="Models/LibriTTS/epochs_2nd_00074.pth"
     )
 
     ref_style = synthesiser.compute_style("Models/LibriTTS/emma.wav")
 
     # Generate speech
     audio = synthesiser.inference(
-        text="Hello, my name is dhanya and I am now testing with the new fine tuned model.",
+        text="Hello, my name is dhanya and I am now testing with emma watson voice.",
         ref_s=ref_style,
     )
 
