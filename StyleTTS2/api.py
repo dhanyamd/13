@@ -9,7 +9,7 @@ import numpy as np
 import soundfile as sf
 import boto3
 from pydantic import BaseModel
-from .libri_inference import StyleTTS2Inference
+from libri_inference import StyleTTS2Inference
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -44,7 +44,7 @@ def get_s3_client():
 s3_client = get_s3_client()
 
 S3_PREFIX = os.getenv("S3_PREFIX", "styletss2-output")
-S3_BUCKET = os.getenv("S3_BUCKET", "13xx")
+S3_BUCKET = os.getenv("S3_BUCKET", "13x")
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
@@ -70,7 +70,7 @@ app = FastAPI(title="StyleTTS2 API",
               lifespan=lifespan)
 
 TARGET_VOICES = {
-    "andreas": "Models/LibriTTS/emma.wav",
+    "emma": "Models/LibriTTS/emma.wav",
     "woman": "Models/LibriTTS/woman1.wav",
 }
 
@@ -165,7 +165,7 @@ async def generate_speech(request: TextOnlyRequest, background_tasks: Background
 async def list_voices():
     return {"available_voices": list(TARGET_VOICES.keys())} 
 
-@app.get("/health", dependencies=[Depends(verify_api_key)])
+@app.get("/health")
 async def health_check():
     if synthesizer:
         return {"status": "healthy", "model": "loaded"}
