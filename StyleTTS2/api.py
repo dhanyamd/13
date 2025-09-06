@@ -2,6 +2,7 @@ from contextlib import asynccontextmanager
 import uuid
 from fastapi import BackgroundTasks, Depends, FastAPI, HTTPException, Header
 import logging
+import tempfile
 import os
 import re
 from fastapi.security import APIKeyHeader
@@ -10,7 +11,8 @@ import soundfile as sf
 import boto3
 from pydantic import BaseModel
 from libri_inference import StyleTTS2Inference
-
+from dotenv import load_dotenv
+load_dotenv()
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
@@ -35,10 +37,10 @@ async def verify_api_key(authorization: str = Header(None)):
 
 def get_s3_client(): 
   client_kwargs = {'region_name': os.getenv("AWS_REGION", "us-east-1")}
-  if os.getenv("AWS_ACCESS_KEY_ID") and os.getenv("AWS_SECRET_ACCESS_KEY"): 
+  if os.getenv("AWS_ACCESS_KEY_ID", "AKIARHQBNLVKZHVPIGWI") and os.getenv("AWS_SECRET_ACCESS_KEY", "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"): 
     client_kwargs.update({
-        'aws_access_key_id': os.getenv("AWS_ACCESS_KEY_ID"),
-        'aws_secret_access_key': os.getenv("AWS_SECRET_ACCESS_KEY") 
+        'aws_access_key_id': os.getenv("AWS_ACCESS_KEY_ID", "AKIARHQBNLVKZHVPIGWI"),
+        'aws_secret_access_key': os.getenv("AWS_SECRET_ACCESS_KEY", "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"), 
     })
   return boto3.client('s3', **client_kwargs)
 s3_client = get_s3_client()
@@ -126,7 +128,7 @@ async def generate_speech(request: TextOnlyRequest, background_tasks: Background
             f"Using voice {request.target_voice} from {ref_audio_path}")
        audio_id = str(uuid.uuid4()) 
        output_filename = f"{audio_id}.wav"
-       local_path = f"/tmp/{output_filename}" 
+       local_path = os.path.join(tempfile.gettempdir(), output_filename)
 
        text_chunks = text_chunker(request.text)
        logger.info(f"Text split into {len(text_chunks)} chunks for synthesis")
@@ -165,7 +167,7 @@ async def generate_speech(request: TextOnlyRequest, background_tasks: Background
 async def list_voices():
     return {"available_voices": list(TARGET_VOICES.keys())} 
 
-@app.get("/health")
+@app.get("/health", dependencies=[Depends(verify_api_key)])
 async def health_check():
     if synthesizer:
         return {"status": "healthy", "model": "loaded"}
