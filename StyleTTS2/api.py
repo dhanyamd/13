@@ -37,10 +37,10 @@ async def verify_api_key(authorization: str = Header(None)):
 
 def get_s3_client(): 
   client_kwargs = {'region_name': os.getenv("AWS_REGION", "us-east-1")}
-  if os.getenv("AWS_ACCESS_KEY_ID", "AKIARHQBNLVKZHVPIGWI") and os.getenv("AWS_SECRET_ACCESS_KEY", "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"): 
+  if os.getenv("AWS_ACCESS_KEY_ID") and os.getenv("AWS_SECRET_ACCESS_KEY"): 
     client_kwargs.update({
-        'aws_access_key_id': os.getenv("AWS_ACCESS_KEY_ID", "AKIARHQBNLVKZHVPIGWI"),
-        'aws_secret_access_key': os.getenv("AWS_SECRET_ACCESS_KEY", "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"), 
+        'aws_access_key_id': os.getenv("AWS_ACCESS_KEY_ID"),
+        'aws_secret_access_key': os.getenv("AWS_SECRET_ACCESS_KEY"), 
     })
   return boto3.client('s3', **client_kwargs)
 s3_client = get_s3_client()
