@@ -18,5 +18,7 @@ einops-exts
 tqdm
 typing
 fastapi
+boto3
+uvicorn
 typing-extensions
 git+https://github.com/resemble-ai/monotonic_align.git
